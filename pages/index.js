@@ -80,6 +80,8 @@ export default function Home(){
 				<h2>Jogos</h2>
 				<div id='link'><a href='/jogos/jogotal'>jogotal</a><br></br>
 				<a href="/jogos/avioes">avioes</a>
+				<br></br>
+				<a href="/jogos/domino">chadrex</a>
 				</div>
 			</section>
 		</div>
