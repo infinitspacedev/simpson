@@ -45,13 +45,13 @@ export default function Home(){
 				</div>
 				<h2>Filmes</h2>
 				<div id='link'>
-					<img src='/imgbatman.png'width={50}height={50}></img><hr></hr>
-					<a href='/BTMN.mp4'download="baixar">Batman.......BAIXAR AGORA!</a><br></br>
-					<img src='/finch.png'width={50}height={50}></img><hr></hr>
-					<a href='/FNCH.mp4'download="baixar">Finch.......... BAIXAR AGORA!</a>
+					<img src='/'width={50}height={50}></img><hr></hr>
+					<a href='/'download="baixar">.......BAIXAR AGORA!</a><br></br>
+					<img src='/'width={50}height={50}></img><hr></hr>
+					<a href='/'download="baixar">....... BAIXAR AGORA!</a>
 					<br></br>
-					<img src='/poseidon.jpg'width={50}height={50}></img><hr></hr>
-					<a href='/POSDN.mp4'download="baixar">Poseidon ...BAIXAR AGORA!</a>
+					<img src='/'width={50}height={50}></img><hr></hr>
+					<a href='/'download="baixar"> ...BAIXAR AGORA!</a>
 					
 				</div>
 				
